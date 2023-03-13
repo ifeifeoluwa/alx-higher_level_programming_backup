@@ -15,5 +15,5 @@ if number >= 0:
         print("Last digit of", number, "is", lastdigit,
                 "and is less than 6 and not 0")
 else:
-    print("Last digit of", number, "is", -lastdigit, 
+    print("Last digit of", number, "is", -lastdigit,
             "and is less than 6 and not 0")
