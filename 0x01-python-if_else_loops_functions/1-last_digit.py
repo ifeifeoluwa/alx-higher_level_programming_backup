@@ -14,4 +14,4 @@ if number >= 0:
     else:
         print(notzeromsg.format(number, lastdigit))
 else:
-    print(notzeromsg.format(number, lastdigit))
+    print(notzeromsg.format(number, -lastdigit))
